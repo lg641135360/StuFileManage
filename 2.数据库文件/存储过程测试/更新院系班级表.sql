@@ -1,0 +1,1 @@
+exec updateStuDeptClass 12,"美术学院","1502"

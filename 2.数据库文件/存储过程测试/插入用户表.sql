@@ -1,0 +1,1 @@
+exec insertUser "hugao","123",0

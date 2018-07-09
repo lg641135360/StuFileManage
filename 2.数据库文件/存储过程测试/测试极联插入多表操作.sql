@@ -1,0 +1,1 @@
+exec insertStu "11","іВБъ","ma",NULL,NULL,NULL,NULL,13,5

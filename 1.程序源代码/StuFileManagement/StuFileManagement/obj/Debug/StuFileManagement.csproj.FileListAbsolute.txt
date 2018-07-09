@@ -1,0 +1,5 @@
+C:\Users\下曲未完\Documents\数据库大作业\学生档案管理系统byLG\1.程序源代码\StuFileManagement\StuFileManagement\bin\StuFileManagement.dll
+C:\Users\下曲未完\Documents\数据库大作业\学生档案管理系统byLG\1.程序源代码\StuFileManagement\StuFileManagement\bin\StuFileManagement.pdb
+C:\Users\下曲未完\Documents\数据库大作业\学生档案管理系统byLG\1.程序源代码\StuFileManagement\StuFileManagement\obj\Debug\StuFileManagement.dll
+C:\Users\下曲未完\Documents\数据库大作业\学生档案管理系统byLG\1.程序源代码\StuFileManagement\StuFileManagement\obj\Debug\StuFileManagement.pdb
+C:\Users\下曲未完\Documents\数据库大作业\学生档案管理系统byLG\1.程序源代码\StuFileManagement\StuFileManagement\obj\Debug\StuFileManagement.csprojResolveAssemblyReference.cache
